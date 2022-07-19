@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home - Cameron Maloney</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8">
+  </head>
 
+  <body>
+
+    <header>
+      <img src="images/GDClogo.jpeg" alt="GameDay Central Logo">
+      <h1>Cameron Maloney</h1>
+    </header>
+
+    <div class="navbar">
+      <a href="index.html">Home</a>
+      <a href="Pages/aboutPage.html">About</a>
+      <a href="Pages/resumePage.html">Resume</a>
+      <a href="Pages/certificationPage.html">Certifications</a>
+      <a href="Pages/portfolioPage.html">Portfolio</a>
+      <a href="Pages/contactPage.html">Contact</a>
+    </div>
+    
+  <body>
+<html>
